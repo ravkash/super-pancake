@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ravi-Kashyap
+- 👋 Hi, I’m Ravi Kashyap
 - 👀 I’m interested in ... SAP on Azure 
 - 🌱 I’m currently learning ... Automation
 - 💞️ I’m looking to collaborate on ... SAP on Azure 
