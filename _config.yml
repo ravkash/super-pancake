@@ -1,0 +1,25 @@
+author:  
+description:  
+url:   
+email:  
+title:   
+
+theme: minima
+
+
+
+header_pages:
+  - _pages/homepage.md
+#  - _pages/about.md
+ 
+
+include:
+    - _pages
+    
+    
+ 
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
